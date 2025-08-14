@@ -8,7 +8,7 @@
 * 
 *  Name: Dylan Musiiwa Student ID:104281233 Date: 13/08/2025
 
-*  Vercel App (Deployed) Link:  https://web-422-assignment-6-one.vercel.app/
+*  Vercel App (Deployed) Link: https://myappw6-3ezb0dxvs-dmusiiwas-projects.vercel.app
 ********************************************************************************/ 
 import { Image, Row, Col } from 'react-bootstrap';
 

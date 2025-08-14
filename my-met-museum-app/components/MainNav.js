@@ -43,7 +43,7 @@ export default function MainNav() {
     <>
       <Navbar className="fixed-top navbar-dark bg-dark" expand="lg" expanded={isExpanded}>
         <Container>
-          <Navbar.Brand>Ange Pamela Gadjou Tchaleu</Navbar.Brand>
+          <Navbar.Brand>Dylan Musiiwa</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" onClick={toggleNavbar} />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
